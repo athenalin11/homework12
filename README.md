@@ -131,15 +131,4 @@ pip install -r requirements.txt
 - 多模態情緒分析（Multimodal Emotion Recognition）
 - 語音訊號處理（Speech Signal Processing）
 
-## 📄 授權
 
-本專案為教學用途。
-
-## 👤 作者
-
-心理資訊學課程作業
-授課教師：Tsung-Ren (Tren) Huang
-
----
-
-**🌟 如果這個專案對你有幫助，歡迎給個 Star！**
